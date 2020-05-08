@@ -20,5 +20,5 @@ Some projects that I worked on in Data Science Class.
 # [Challenge-5](/Challenge_5)
   Parameter fitting and correlation.
   
-# <a href="github.com/ghimiremukesh/Data-Science-Projects/Neural_Net Challenge"> Final Challenge - Neural Network </a>
+# <a href="/Neural_Net Challenge"> Final Challenge - Neural Network </a>
   Generating sample for a dice recognition neural network to train on.
